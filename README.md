@@ -1,4 +1,4 @@
-# Projeto de Análise e Desenvolvimento de Sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas
+# Projeto em C: Algoritmos de Introdução a Lógica de Programação em Linguagem C
 
 Este projeto foi desenvolvido como parte do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas. O objetivo do projeto é explorar diferentes algoritmos implementados em linguagem C.
 
